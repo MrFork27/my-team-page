@@ -52,3 +52,47 @@ body {
     line-height: normal;
     width: 439px;
 }
+
+.photos-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.member-container {
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    height: 471px;
+    justify-content: space-around;
+    width: 305.213px;
+}
+
+.member-photo {
+    height: 341px;
+    width: 238px;
+}
+
+.member-name {
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.member-type {
+    color: #000;
+    font-family: PT Serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    rotate: 90deg;
+    position: absolute;
+    float: right;
+    text-transform: uppercase;
+    width: 341px;
+}
