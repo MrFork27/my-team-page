@@ -1,1 +1,54 @@
-/* styles */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 5% 16%;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.title-container {
+    width: 50%;
+}
+
+.section-container {
+    width: 50%;
+}
+
+.web-title {
+    color: #000;
+    font-family: PT Serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -1.62px;
+    line-height: normal;
+}
+
+.section-title {
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.section-text {
+    color: #000;
+    flex-shrink: 0;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    height: 87px;
+    line-height: normal;
+    width: 439px;
+}
