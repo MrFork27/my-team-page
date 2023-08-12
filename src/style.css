@@ -96,3 +96,29 @@ body {
     text-transform: uppercase;
     writing-mode: vertical-lr;
 }
+
+footer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-text {
+    color: #a9a9a9;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.footer-text-username {
+    color: #a9a9a9;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
