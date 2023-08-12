@@ -93,9 +93,6 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    rotate: 90deg;
-    position: absolute;
-    float: right;
     text-transform: uppercase;
-    width: 341px;
+    writing-mode: vertical-lr;
 }
