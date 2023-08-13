@@ -110,8 +110,7 @@ body {
 
 footer {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 115px auto;
 }
 
 .footer-text {
