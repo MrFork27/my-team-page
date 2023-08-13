@@ -78,6 +78,10 @@ body {
     margin-top: 15%;
 }
 
+.center-member-special {
+    margin-top: 15%;
+}
+
 .member-photo-name-container {
     height: auto;
     width: 80%;
@@ -131,4 +135,26 @@ footer {
     font-weight: 700;
     line-height: normal;
     text-decoration-line: underline;
+}
+
+@media screen and (max-width: 1200px) {
+    .main-container {
+        flex-direction: column;
+    }
+
+    .title-container {
+        margin-bottom: 5%;
+    }
+
+    .member-container {
+        width: 50%;
+    }
+
+    .center-member-special-mobile {
+        margin-top: 15%;
+    }
+
+    .center-member-special {
+        margin-top: 5%;
+    }
 }
