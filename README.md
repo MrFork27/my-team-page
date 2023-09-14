@@ -8,6 +8,14 @@
 
 <div align="center">
   <h3>
+    <a href="https://fascinating-dieffenbachia-6e79c0.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/MrFork27/my-team-page">
+      Solution
+    </a>
+    <span> | </span>
     <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
@@ -18,11 +26,11 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+-   [Overview](#overview)
+    -   [Built With](#built-with)
+-   [Features](#features)
+-   [Contact](#contact)
+-   [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
@@ -37,8 +45,8 @@ The purpose of this project was to create a dynamic and very simple website that
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/)
+-   [HTML](https://www.w3schools.com/html/)
+-   [CSS](https://www.w3schools.com/css/)
 
 ## Features
 
@@ -46,13 +54,12 @@ The purpose of this project was to create a dynamic and very simple website that
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
 
-
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+-   [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 
 ## Contact
 
-- GitHub [@MrFork](https://github.com/MrFork27)
+-   GitHub [@MrFork](https://github.com/MrFork27)
